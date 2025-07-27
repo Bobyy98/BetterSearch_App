@@ -1,0 +1,4 @@
+﻿  test.cpp
+  test2.cpp
+  Generating Code...
+D:\006 PRITHVIRAJ 2nd\BetterSearch project\BetterSearch1\BetterSearch1\test2.cpp(1,10): error C1083: Cannot open include file: 'QApplication': No such file or directory
